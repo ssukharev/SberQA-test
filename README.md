@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>QA — Тестирование AI-агента поддержки</h1>
+  <h1>QA Тестирование AI-агента поддержки</h1>
 </div>
 
 [![Language](https://img.shields.io/badge/Language-Python_3.13-blue.svg)]()
@@ -7,7 +7,7 @@
 [![Tests](https://img.shields.io/badge/Tests-pytest-yellow.svg)]()
 [![DB](https://img.shields.io/badge/DB-SQLite-003B57.svg)]()
 
-Тестовое задание на позицию QA Engineer. Включает полный цикл тестирования AI-ассистента поддержки клиентов, работающего на базе LLM + RAG.
+Тестовое задание на позицию Стажер-QA. Включает полный цикл тестирования AI-ассистента поддержки клиентов, работающего на базе LLM + RAG.
 
 ---
 
