@@ -1,0 +1,122 @@
+[
+  {
+    "message": "Как сменить пароль?",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Подскажите, как поменять пароль",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Хочу изменить свой пароль",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Где меняется пароль?",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Смена пароля — как это сделать?",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "пароль сменить",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "СМЕНИТЬ ПАРОЛЬ!!!",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Можно ли как-то обновить пароль?",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Забыл пароль, хочу новый",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Пароль не подходит, хочу сменить",
+    "expected_source": "knowledge_base",
+    "expected_keyword": "пароль",
+    "category": "Как сменить пароль"
+  },
+  {
+    "message": "Как полететь на Марс?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Сколько стоит слон?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Вы продаёте рыбу?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Как собрать ядерный реактор?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Где купить билет на поезд?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Когда следующее затмение?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Подскажите рецепт борща",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Как вырастить кактус?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Что такое квантовая физика?",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  },
+  {
+    "message": "Помоги решить уравнение",
+    "expected_source": "ticket_created",
+    "expected_keyword": null,
+    "category": "Неизвестный вопрос"
+  }
+]
