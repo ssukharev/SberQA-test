@@ -5,7 +5,6 @@
 [![Language](https://img.shields.io/badge/Language-Python_3.13-blue.svg)]()
 [![Framework](https://img.shields.io/badge/Framework-FastAPI-009688.svg)]()
 [![Tests](https://img.shields.io/badge/Tests-pytest-yellow.svg)]()
-[![DB](https://img.shields.io/badge/DB-PostgreSQL-336791.svg)]()
 
 Тестовое задание на позицию Стажер-QA. Включает полный цикл тестирования AI-ассистента поддержки клиентов, работающего на базе LLM + RAG.
 
